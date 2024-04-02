@@ -20,7 +20,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.jpg);
-  background-size: contain; /* coverからcontainに変更 */
+  background-size: contain !important; /* coverからcontainに変更 */
   background-position: center; /* 画像を中央に配置 */
   color: white;
   text-align: center;
